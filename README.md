@@ -25,7 +25,7 @@ RewriteBase /ScarlettMVC/public
     is `My_Project` then you would write the following:
 
 ```
-RewriteBase /ScarlettMVC/public
+RewriteBase /My_Project/public
 ```
 
 ## Contributing
