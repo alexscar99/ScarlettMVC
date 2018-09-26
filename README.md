@@ -28,7 +28,7 @@ RewriteBase /ScarlettMVC/public
 ```
 
 -   Replace `/ScarlettMVC/public` with the path to your public folder. If your root project directory
-    is `My_Project` then you would replace `/ScarlettMVC` with `My_Project`. The full line for this
+    is `My_Project` then you would replace `/ScarlettMVC` with `/My_Project`. The full line for this
     example:
 
 ```
