@@ -49,7 +49,7 @@
         // Bind values
         public function bind($param, $value, $type = null)
         {
-            if (isnull($type)) {
+            if (is_null($type)) {
                 switch (true) {
                     case is_int($value):
                         $type = PDO::PARAM_INT;
